@@ -1,0 +1,17 @@
+p{
+    color: rgb(255, 70, 212);
+}
+
+.kucing{
+    background-image: url('kucing.jpeg');
+    height: 450px;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(255, 70, 212);
+}
+
+.vidio{
+    text-align: center;
+}
